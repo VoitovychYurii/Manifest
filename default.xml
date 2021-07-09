@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote fetch ="https://github.com/VoitovychYurii" name="origin"/>
-    <default remote="origin" sync-j="4" revision="main"/>
+    <default remote="origin" sync-j="4" revision="master"/>
     
-    <project name="test" path="Led"/>
+    <project name=05ded62 path="Led"/>
 
 </manifest>
