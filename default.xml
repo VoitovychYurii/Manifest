@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch ="https://github.com/VoitovychYurii" name="origin"/>
+    <default remote="origin" sync-j="4" revision="master"/>
+    
+    <project name="Practice4" path="Led"/>
+
+</manifest>
